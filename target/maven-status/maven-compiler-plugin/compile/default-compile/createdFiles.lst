@@ -1,0 +1,15 @@
+ru/taximaxim/dbreptools/security/AjaxAuthenticationSuccessHandler.class
+ru/taximaxim/dbreptools/config/SecurityConfiguration.class
+ru/taximaxim/dbreptools/filter/CsrfCookieGeneratorFilter.class
+ru/taximaxim/dbreptools/config/WebConfigurer.class
+ru/taximaxim/dbreptools/security/AuthoritiesConstants.class
+ru/taximaxim/dbreptools/DbreptoolsCasApplication.class
+ru/taximaxim/dbreptools/security/AppUserDetails.class
+ru/taximaxim/dbreptools/security/CustomUserDetailsService.class
+ru/taximaxim/dbreptools/config/MethodSecurityConfig.class
+ru/taximaxim/dbreptools/security/AjaxLogoutSuccessHandler.class
+ru/taximaxim/dbreptools/security/SecurityUtils.class
+ru/taximaxim/dbreptools/filter/CrossOriginFilter.class
+ru/taximaxim/dbreptools/security/AjaxAuthenticationFailureHandler.class
+ru/taximaxim/dbreptools/controller/SimpleController.class
+ru/taximaxim/dbreptools/security/CustomUserDetailsService$1.class

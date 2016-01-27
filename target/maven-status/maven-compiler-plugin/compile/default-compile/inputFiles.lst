@@ -1,0 +1,16 @@
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/AjaxLogoutSuccessHandler.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/config/MethodSecurityConfig.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/SecurityUtils.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/AuthoritiesConstants.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/config/WebConfigurer.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/AjaxAuthenticationFailureHandler.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/DbreptoolsCasApplication.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/config/SecurityConfiguration.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/AppUserDetails.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/controller/SampleRestResource.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/AjaxAuthenticationSuccessHandler.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/security/CustomUserDetailsService.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/controller/SimpleController.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/controller/AccountResource.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/filter/CrossOriginFilter.java
+/home/petrov_im/workspace/dbreptools-cas/src/main/java/ru/taximaxim/dbreptools/filter/CsrfCookieGeneratorFilter.java
